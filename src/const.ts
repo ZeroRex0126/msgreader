@@ -64,6 +64,7 @@ export default {
         '5d0a': 'creatorSMTPAddress',
         '5d0b': 'lastModifierSMTPAddress',
         '1000': 'body',
+        '3fd9': 'body',
         '007d': 'headers',
         '1009': 'compressedRtf',
         '3ffa': 'lastModifierName',
